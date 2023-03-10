@@ -7,18 +7,6 @@
 /[Ll]ogs/
 /Assets/AssetStoreTools*
 
-#Project Specific
-#---------------------------------------------------------
-UnityEditorSigninDataConfig.asset
-UnityEditorConfigurationDataConfig.asset
-UnityEditorSigninDataConfig.asset.meta
-UnityEditorConfigurationDataConfig.asset.meta
-#---------------------------------------------------------
-
-#Protocol Buffers
-/Assets/Scripts/Proto3/*.cs
-/Assets/Scripts/Proto3/*.cs.meta
-
 # Visual Studio 2015 cache directory
 /.vs/
 
